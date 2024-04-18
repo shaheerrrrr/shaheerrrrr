@@ -1,7 +1,7 @@
 # hola my name is shaheer
 
 # Skillset
-| [![My Skills](https://skillicons.dev/icons?i=java,html,css,py,arduino,cpp,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,py,arduino,cpp,ps)](https://skillicons.dev)
 
 # Currently working on:
 - Congressional App Challenge
