@@ -1,4 +1,4 @@
-# hola my name is shaheer
+# ni hao my name is shaheer
 newish to programming i started leetcode a lil while ago
 # Skillset
 [![My Skills](https://skillicons.dev/icons?i=java,html,py,arduino,cpp)](https://skillicons.dev)
