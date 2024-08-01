@@ -8,6 +8,6 @@ newish to programming i started leetcode a lil while ago
 
 # Currently working on:
 - Congressional App Challenge
-- AI Detection of Corneal Eye Diseases
+- AI Detection of Parkinsons Disease
 - AP Computer Science A
 - Capstone Project
