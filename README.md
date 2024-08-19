@@ -9,5 +9,5 @@ newish to programming i started leetcode a lil while ago
 # Currently working on:
 - Congressional App Challenge
 - AI Detection of Parkinsons Disease
-- AP Computer Science A
+- Data Structures and Algorithms
 - Capstone Project
