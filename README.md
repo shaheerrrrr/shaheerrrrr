@@ -10,4 +10,4 @@ newish to programming i started leetcode a lil while ago
 - Congressional App Challenge
 - AI Detection of Parkinsons Disease
 - Data Structures and Algorithms
-- Capstone Project
+- CS Capstone Project
