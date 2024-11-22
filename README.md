@@ -7,7 +7,6 @@ newish to programming i started leetcode a lil while ago
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khanshaheer20008?theme=dark&font=Raleway%20Dots)
 
 # Currently working on:
-- Congressional App Challenge
 - AI Detection of Parkinsons Disease
 - Data Structures and Algorithms
 - CS Capstone Project
