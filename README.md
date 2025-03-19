@@ -1,5 +1,5 @@
 # Hi, Shaheer here!
-aspiring developer. Not letting my leetcode stats hold me back
+aspiring and beginner developer. Not letting my leetcode stats hold me back
 
 
 ## Socials:
