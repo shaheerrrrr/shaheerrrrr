@@ -19,4 +19,8 @@ aspiring and beginner developer. Not letting my leetcode stats hold me back
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+# Currently Working On:
+- Racing Game in Godot
+- Data Structures and Algorithms
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
