@@ -1,5 +1,10 @@
-# Hi, Shaheer here!
-aspiring and beginner developer. Not letting my leetcode stats hold me back
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=8721F7&center=true&width=435&lines=Hi%2C+Shaheer+Here!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>Aspiring and beginner developer - not letting my Leetcode stats hold me back</em> <br>
+</p>
 
 
 ## Socials:
