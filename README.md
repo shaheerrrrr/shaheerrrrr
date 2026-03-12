@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Aspiring and beginner developer - not letting my Leetcode stats hold me back</em> <br>
+  <em>Aspiring dev - not letting my Leetcode stats hold me back</em> <br>
 </p>
 
 
