@@ -24,7 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # Currently Working On:
-- Custom Sign Up for Math Honor Society
-- Online Poker Simulator
+- RL in a Robotics Simulation
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
